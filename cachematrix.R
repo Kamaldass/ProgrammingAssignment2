@@ -3,8 +3,7 @@
 # Created By: Edilbert Premdass
 # Created Date: 03/18/2015
 # 
-# Purpose: This function computes the inverse of the square matrix returned  
-#          This function "makeCacheMatrix" creates a cache of the inverse a given matrix 
+# Purpose: This function "makeCacheMatrix" creates a cache of the inverse a given matrix 
 #          set the value of the Vector
 #          get the value of the vector
 #          set the value of the Inverse Matrix
